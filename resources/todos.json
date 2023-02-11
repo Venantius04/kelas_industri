@@ -1,0 +1,16 @@
+{
+    "siswa": [
+
+        {
+            "id":"01",
+            "nama": "Peter",
+            "jurusan": "RPL"
+        },
+
+        {
+            "id":"02",
+            "nama": "William",
+            "jurusan": "TKJ"
+        }
+    ]
+}

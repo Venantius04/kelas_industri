@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <siswa>
+        <id>01</id>
+        <nama>Peter</nama>
+        <jurusan>RPL</jurusan>
+    </siswa>
+    <siswa>
+        <id>02</id>
+        <nama>William</nama>
+        <jurusan>TKJ</jurusan>
+    </siswa>
+</root>
