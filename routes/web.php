@@ -26,3 +26,6 @@ Route::prefix('user')->group(function(){
 
 });
 Route::get('user', [UserController::class, 'view']);
+Route::get('hello', function (){
+ return "hello";   
+});
