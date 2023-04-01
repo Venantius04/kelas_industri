@@ -1,0 +1,10 @@
+-setting
+-login
+-register
+-alternative login
+-tambah individu
+-search
+-menu
+-tambah bahan_pangan
+-edit bahan_pangan
+-tambah jam_makan

@@ -1,0 +1,36 @@
+user
+-email
+-password
+-no_telpon
+
+bahan pangan
+-kode
+-kandungan
+-nama_makanan
+
+informasi_individu
+-nama
+-tanggal_lahir
+-usia
+-jenis_kelamin
+-kondisi fisik
+-trimeter-hamil
+-kesehatan
+-berat_badan
+-tinggi_badan
+-provinsi
+-kabupaten/kota
+-kecamatan
+-kelurahan/desa
+
+waktu_makan
+-jam_makan
+-kategori_bahan_pangan
+-nama_bahan_pangan
+-berat_bahan_pangan
+
+populasi
+-provinsi
+-kabupaten/kota
+-kecamatan
+-nama_populasi
